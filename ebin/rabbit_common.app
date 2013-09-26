@@ -1,4 +1,4 @@
-{application,rabbit,
+{application,rabbit_common,
     [{description,"RabbitMQ"},
      {id,"RabbitMQ"},
      {vsn,"%%VSN%%"},
